@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "14.7.0"
+  },
   "name": "02-homework",
   "version": "1.0.0",
   "description": "## Description",
